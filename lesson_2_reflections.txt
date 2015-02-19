@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It adds a new .git folder to track changes/versions/etc.
+
+
